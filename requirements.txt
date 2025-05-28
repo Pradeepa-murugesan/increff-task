@@ -1,0 +1,9 @@
+uvicorn
+pymongo
+fastapi
+google-generativeai
+sentence-transformers
+python-dotenv
+faiss-cpu
+streamlit
+scikit-learn
