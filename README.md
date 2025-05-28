@@ -49,7 +49,7 @@ Follow these steps to set up and run the application locally.
 
 6. **Run the FastAPI server on port 5000**
    ```
-   uvicorn main:app --host 0.0.0.0 --port 5000 --reload
+   uvicorn main:app --host 0.0.0.0 --port 8000 --reload
    ```
 
 7. **Frontend Setup (Streamlit)**
