@@ -111,19 +111,19 @@ Follow these steps to set up and run the application locally.
 
 ### 1. User Interface using Streamlit
 
-![Streamlit UI](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/IMG-20250528-WA0046.jpg)
+![Streamlit UI](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/img-1.jpg)
 
 ### 2. Sample Output-1
 
-![API Output](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/IMG-20250528-WA0047.jpg)
+![Output 1](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/img-2.jpg)
 
 ### 3. Sample Output-2
 
-![Sample Output-2.1](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/IMG-20250528-WA0051.jpg)
+![Sample Output-2.1](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/img-3.jpg)
 
 ### 4. Sample Output-2
 
-![Sample Output-2](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/IMG-20250528-WA0050.jpg)
+![Sample Output-2](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/img-4.jpg)
 
 
 ## ✅ Conclusion
