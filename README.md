@@ -47,7 +47,7 @@ Follow these steps to set up and run the application locally.
    pip install -r requirements.txt
    ```
 
-6. **Run the FastAPI server on port 5000**
+6. **Run the FastAPI server on port 8000**
    ```
    uvicorn main:app --host 0.0.0.0 --port 8000 --reload
    ```
