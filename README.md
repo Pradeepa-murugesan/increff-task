@@ -107,5 +107,24 @@ Follow these steps to set up and run the application locally.
 ### Fake Review Detection
 - Implement duplicate and bot-generated review detection using heuristics.
 
+## 🖼️ Sample Output Screenshots
+
+### 1. User Interface using Streamlit
+
+![Streamlit UI](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/IMG-20250528-WA0046.jpg)
+
+### 2. Sample Output-1
+
+![API Output](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/IMG-20250528-WA0047.jpg)
+
+### 3. Sample Output-2
+
+![Sample Output-2.1](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/IMG-20250528-WA0051.jpg)
+
+### 4. Sample Output-2
+
+![Sample Output-2](https://github.com/Pradeepa-murugesan/increff-task/blob/main/images/IMG-20250528-WA0050.jpg)
+
+
 ## ✅ Conclusion
 #### This project showcases how large language models can be integrated into real-world applications for scalable, real-time sentiment analysis. It provided hands-on experience with FastAPI, Streamlit, and NLP pipelines using LLMs.
